@@ -32,6 +32,8 @@ vertical-align: middle;
 #bio{
     padding: 50px;
     text-align: center;
+    font-family: 'Arimo', sans-serif;
+
 }
 .line{
     height: 6px;
@@ -59,6 +61,7 @@ p{
     padding-bottom: 5px;
     padding-left: 9px;
     padding-right: 5px;
+    font-family: 'Dancing Script', cursive;
 }
 html{
     scroll-behavior: smooth;
@@ -67,3 +70,9 @@ a:hover{
     font-size: 30px;
     
 }
+#mapDiv{
+    border-style: ridge;
+    background-color: darkcyan;
+    border-width: 20px;
+}
+
